@@ -4,7 +4,9 @@ module.exports = {
     ],
     darkMode: false, // or 'media' or 'class'
     theme: {
-        extend: {},
+        zIndex: {
+            '2000': '2000',
+          }
     },
     variants: {
         extend: {},
