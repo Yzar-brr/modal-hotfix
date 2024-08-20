@@ -29,8 +29,8 @@
     }
   },
   "require": {
-    "php": "^7.4|^8.0",
-    "livewire/livewire": "^2.0",
+    "php": "^7.4|^8.1.29",
+    "livewire/livewire": "^3.0",
     "spatie/laravel-package-tools": "^1.9"
   },
   "autoload": {
